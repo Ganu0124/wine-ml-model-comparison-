@@ -1,4 +1,4 @@
-# Comparative Analysis of Machine Learning Algorithms ......
+# Comparative Analysis of Machine Learning Algorithms Using Wine Dataset
 
 ## Project Overview
 This project compares multiple machine learning algorithms using the Wine Dataset from the UCI repository.
